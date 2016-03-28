@@ -1,4 +1,4 @@
 # NestedScrollView
 RecyclerView, CardView inside NestedScrollView
 
-![Screenshot](https://github.com/ngocchung/NestedScrollView/blob/master/screenshot2.png)
+![Screenshot](https://raw.githubusercontent.com/JaydipZala/NestedScrollView-RecyclerView/master/screenshot2.png)
